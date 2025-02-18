@@ -1,0 +1,19 @@
+{
+  "name": "@flowscripter/template-bun-executable",
+  "module": "index.ts",
+  "type": "module",
+  "version": "0.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@flowscripter/template-bun-library": "1.0.3",
+    "@flowscripter/template-bun-rust-library": "1.0.3"
+  }
+}
