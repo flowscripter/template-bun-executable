@@ -3,6 +3,6 @@ on:
   pull_request:
     branches: [main]
 jobs:
-  call-validate-bun-pr:
+  call-validate-bun-executable-pr:
     uses: flowscripter/.github/.github/workflows/validate-bun-executable-pr.yml@v1
     secrets: inherit
