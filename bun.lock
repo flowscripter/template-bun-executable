@@ -4,7 +4,8 @@
     "": {
       "name": "@flowscripter/template-bun-executable",
       "dependencies": {
-        "@flowscripter/template-bun-library": "^1.0.3",
+        "@flowscripter/template-bun-library": "1.0.3",
+        "@flowscripter/template-bun-rust-library": "1.0.6",
       },
       "devDependencies": {
         "@types/bun": "latest",
@@ -16,6 +17,8 @@
   },
   "packages": {
     "@flowscripter/template-bun-library": ["@flowscripter/template-bun-library@1.0.3", "", { "peerDependencies": { "typescript": "^5.7.3" } }, "sha512-0AQLu8hGf+dzT+0m7EbUG8lJadzTcUROzp3Z8swlKcqhTBuIZrb+Vg9fyWw1M8YWsk9Jk/ZaXjb00teAI5D6Zg=="],
+
+    "@flowscripter/template-bun-rust-library": ["@flowscripter/template-bun-rust-library@1.0.6", "", { "peerDependencies": { "typescript": "^5.0.0" } }, "sha512-jFE005w91y1zen81KHU6wfuf2xrSFm5+zo75GCuI6GSolfnfGWLaDuLwQce/gvGegCz0dDvj4WxmQMMH9OrOzA=="],
 
     "@types/bun": ["@types/bun@1.2.2", "", { "dependencies": { "bun-types": "1.2.2" } }, "sha512-tr74gdku+AEDN5ergNiBnplr7hpDp3V1h7fqI2GcR/rsUaM39jpSeKH0TFibRvU0KwniRx5POgaYnaXbk0hU+w=="],
 

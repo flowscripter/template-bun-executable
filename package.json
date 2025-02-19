@@ -14,6 +14,6 @@
   },
   "dependencies": {
     "@flowscripter/template-bun-library": "1.0.3",
-    "@flowscripter/template-bun-rust-library": "1.0.3"
+    "@flowscripter/template-bun-rust-library": "1.0.6"
   }
 }
