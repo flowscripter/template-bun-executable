@@ -31,6 +31,9 @@ world();
 
 ## Binary Executable Usage
 
+**NOTE**: The binaries are 10's of megabytes in size as the entire Bun runtime
+is included.
+
 #### MacOS
 
 Via [Homebrew](https://brew.sh/):
@@ -54,9 +57,6 @@ In PowerShell:
 You can download and extract the binary zip files from the
 [releases](https://github.com/flowscripter/template-bun-executable/releases)
 page.
-
-**NOTE**: The binaries are 10's of megabytes in size as the entire Bun runtime
-is included.
 
 ## Functional Tests
 
