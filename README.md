@@ -51,7 +51,9 @@ In PowerShell:
 
 #### Manual Install
 
-You can download and extract the binary zip files from the [releases](https://github.com/flowscripter/template-bun-executable/releases) page.
+You can download and extract the binary zip files from the
+[releases](https://github.com/flowscripter/template-bun-executable/releases)
+page.
 
 **NOTE**: The binaries are 10's of megabytes in size as the entire Bun runtime
 is included.
