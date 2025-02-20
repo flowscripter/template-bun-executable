@@ -7,7 +7,7 @@
 [![license: MIT](https://img.shields.io/github/license/flowscripter/template-bun-executable)](https://github.com/flowscripter/template-bun-executable/blob/main/LICENSE)
 
 > Project template for a cross-platform Bun executable with ffi native library
-> and Bun library dependencies
+> and Bun library dependencies.
 
 ## Template Usage
 
