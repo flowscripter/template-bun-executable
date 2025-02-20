@@ -24,7 +24,7 @@ Add the module:
 Use the module:
 
 ```typescript
-import { world } from "@flowscripter/template-deno-executable";
+import { world } from "@flowscripter/template-bun-executable";
 
 world();
 ```
@@ -38,7 +38,7 @@ is included.
 
 Via [Homebrew](https://brew.sh/):
 
-`brew install flowscripter/tap/template-deno-executable`
+`brew install flowscripter/tap/template-bun-executable`
 
 #### Linux
 
