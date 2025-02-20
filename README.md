@@ -31,20 +31,30 @@ world();
 
 ## Binary Executable Usage
 
-Download and extract zip from:
-https://github.com/flowscripter/template-bun-executable/releases
+#### MacOS
 
-Run the executable: `./template-bun-executable`
+Via [Homebrew](https://brew.sh/):
 
-**NOTE**: The executable is 10's of megabytes in size as the entire Bun runtime
+`brew install flowscripter/tap/template-deno-executable`
+
+#### Linux
+
+In a terminal:
+
+`curl -fsSL https://raw.githubusercontent.com/flowscripter/template-bun-executable/main/script/install.sh | sh`
+
+#### Windows
+
+In PowerShell:
+
+`curl -fsSL https://raw.githubusercontent.com/flowscripter/template-bun-executable/main/script/install.ps1 | powershell`
+
+#### Manual Install
+
+You can download and extract the binary zip files from the [releases](https://github.com/flowscripter/template-bun-executable/releases) page.
+
+**NOTE**: The binaries are 10's of megabytes in size as the entire Bun runtime
 is included.
-
-**NOTE**: Due to this issue https://github.com/oven-sh/bun/issues/7208 the MacOS
-executable is neither signed nor notarised. This means a "Developer cannot be
-verified" error will be displayed when the CLI it is executed. This requires
-explicitly allowing the CLI to be executed via:
-
-_"System Settings" > "Privacy & Security" > "Security" > "Allow Anyway"_
 
 ## Functional Tests
 
