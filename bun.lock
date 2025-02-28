@@ -16,9 +16,9 @@
     },
   },
   "packages": {
-    "@flowscripter/template-bun-library": ["@flowscripter/template-bun-library@1.0.5", "", { "peerDependencies": { "typescript": "^5.7.3" } }, "sha512-Y0b/YV2ePIP99p4K3qkeyoeesBMMt9S0VSvOJb240Ml61Bv5pB6RO9LtQvEiWQJY++JfZIz9iR4wvOgcWNkQYg=="],
+    "@flowscripter/template-bun-library": ["@flowscripter/template-bun-library@1.0.6", "", { "peerDependencies": { "typescript": "^5.7.3" } }, "sha512-lHXvu4GAb1rkosCZaF/BlGkFvVjyEZFmTm1Pssb0r8yFGz/TodEfOYgRJYajsfUUiFZpqUM6aguHPKB14m4+sA=="],
 
-    "@flowscripter/template-bun-rust-library": ["@flowscripter/template-bun-rust-library@1.0.9", "", { "peerDependencies": { "typescript": "^5.7.3" } }, "sha512-HmxFgPusPCAYow0Ein5ZgN39TU/kKQZ9E5VjBJfRKc/Jh3KbNOVn2YW7RrBm8bNW70rGGCBdSdLBgVVdBuxz1g=="],
+    "@flowscripter/template-bun-rust-library": ["@flowscripter/template-bun-rust-library@1.0.12", "", { "peerDependencies": { "typescript": "^5.7.3" } }, "sha512-/X5YNOxz51DrFVim2e4u3kvyN98dN3XgU28wBwhNUJjIEVLyuYulhZQprtBmBjWGsUdyGgeLdhdaHd+tnzy/sw=="],
 
     "@types/bun": ["@types/bun@1.2.4", "", { "dependencies": { "bun-types": "1.2.4" } }, "sha512-QtuV5OMR8/rdKJs213iwXDpfVvnskPXY/S0ZiFbsTjQZycuqPbMW8Gf/XhLfwE5njW8sxI2WjISURXPlHypMFA=="],
 
