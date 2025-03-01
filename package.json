@@ -10,10 +10,10 @@
     "@types/bun": "^1.2.4"
   },
   "peerDependencies": {
-    "typescript": "^5.7.3"
+    "typescript": "^5.8.2"
   },
   "dependencies": {
     "@flowscripter/template-bun-library": "1.0.6",
-    "@flowscripter/template-bun-rust-library": "1.0.12"
+    "@flowscripter/template-bun-rust-library": "1.0.13"
   }
 }
