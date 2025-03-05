@@ -2,7 +2,7 @@
 
 [![version](https://img.shields.io/github/v/release/flowscripter/template-bun-executable?sort=semver)](https://github.com/flowscripter/template-bun-executable/releases)
 [![build](https://img.shields.io/github/actions/workflow/status/flowscripter/template-bun-executable/release-bun-executable.yml)](https://github.com/flowscripter/template-bun-executable/actions/workflows/release-bun-executable.yml)
-[![coverage](https://codecov.io/gh/flowscripter/template-bun-executable/graph/badge.svg?token=uWK0oWsBjr)](https://codecov.io/gh/flowscripter/template-bun-executable)
+[![coverage](https://codecov.io/gh/flowscripter/template-bun-executable/graph/badge.svg?token=dxU2NQB2DM)](https://codecov.io/gh/flowscripter/template-bun-executable)
 [![docs](https://img.shields.io/badge/docs-API-blue)](https://flowscripter.github.io/template-bun-executable/index.html)
 [![license: MIT](https://img.shields.io/github/license/flowscripter/template-bun-executable)](https://github.com/flowscripter/template-bun-executable/blob/main/LICENSE)
 
@@ -14,20 +14,6 @@
 Create a new Bun project using this as a template:
 
 `bun create @flowscripter/template-bun-executable`
-
-## Bun Module Usage
-
-Add the module:
-
-`bun add @flowscripter/template-bun-executable`
-
-Use the module:
-
-```typescript
-import { world } from "@flowscripter/template-bun-executable";
-
-world();
-```
 
 ## Binary Executable Usage
 
@@ -67,6 +53,10 @@ Refer to [functional_tests/README.md](functional_tests/README.md)
 Test:
 
 `bun test`
+
+Run:
+
+`bun run index.ts`
 
 Compile binary:
 
