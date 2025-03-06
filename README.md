@@ -50,6 +50,10 @@ Refer to [functional_tests/README.md](functional_tests/README.md)
 
 ## Development
 
+Install dependencies:
+
+`bun install`
+
 Test:
 
 `bun test`
