@@ -4,21 +4,21 @@
     "": {
       "name": "@flowscripter/template-bun-executable",
       "dependencies": {
-        "@flowscripter/template-bun-library": "1.0.11",
-        "@flowscripter/template-bun-rust-library": "1.0.18",
+        "@flowscripter/template-bun-library": "latest",
+        "@flowscripter/template-bun-rust-library": "latest",
       },
       "devDependencies": {
-        "@types/bun": "^1.2.4",
+        "@types/bun": "latest",
       },
       "peerDependencies": {
-        "typescript": "^5.8.2",
+        "typescript": "latest",
       },
     },
   },
   "packages": {
-    "@flowscripter/template-bun-library": ["@flowscripter/template-bun-library@1.0.11", "", { "peerDependencies": { "typescript": "^5.8.2" } }, "sha512-JPNt3szD9GcESozN8lAsfcKgrLDrf8GVyyXdFvJypYP/U2Djx+Wmr98gr/msuQt2yZr7Ymwc8EVCJglQY1Zt7g=="],
+    "@flowscripter/template-bun-library": ["@flowscripter/template-bun-library@1.0.12", "", { "peerDependencies": { "typescript": "^5.8.2" } }, "sha512-WwIDvAFdszwW1Q4Ahckh3jMFRPxdl8aS3Ok2WblUCcxw6qINpZSyY3HufNXzGT6cZaHhKjG1qpo/RdnFuT74lw=="],
 
-    "@flowscripter/template-bun-rust-library": ["@flowscripter/template-bun-rust-library@1.0.18", "", { "peerDependencies": { "typescript": "^5.8.2" } }, "sha512-Ds2higzKi+CKvpN7qyDYwzL1bI9MESuNE5a7fs05Hp/CC6GEK1VYi4f2DUPn/TPLr9XtfXChhLr6jPlTubA3lw=="],
+    "@flowscripter/template-bun-rust-library": ["@flowscripter/template-bun-rust-library@1.0.19", "", { "peerDependencies": { "typescript": "^5.8.2" } }, "sha512-gjnY3KYLJP/lB3YvUA5WaS5xqF0UFm/EacT1aO11oF1GD4L1adKWlKv92uxh8F5Uf/5LqVLq8Bmwunjaw4VSpg=="],
 
     "@types/bun": ["@types/bun@1.2.4", "", { "dependencies": { "bun-types": "1.2.4" } }, "sha512-QtuV5OMR8/rdKJs213iwXDpfVvnskPXY/S0ZiFbsTjQZycuqPbMW8Gf/XhLfwE5njW8sxI2WjISURXPlHypMFA=="],
 

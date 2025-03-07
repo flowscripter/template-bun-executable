@@ -13,7 +13,7 @@
     "typescript": "^5.8.2"
   },
   "dependencies": {
-    "@flowscripter/template-bun-library": "1.0.11",
-    "@flowscripter/template-bun-rust-library": "1.0.18"
+    "@flowscripter/template-bun-library": "1.0.12",
+    "@flowscripter/template-bun-rust-library": "1.0.19"
   }
 }
