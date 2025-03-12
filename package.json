@@ -7,13 +7,13 @@
     "access": "public"
   },
   "devDependencies": {
-    "@types/bun": "^1.2.4"
+    "@types/bun": "^1.2.5"
   },
   "peerDependencies": {
     "typescript": "^5.8.2"
   },
   "dependencies": {
-    "@flowscripter/template-bun-library": "1.0.16",
-    "@flowscripter/template-bun-rust-library": "1.0.23"
+    "@flowscripter/template-bun-library": "1.0.17",
+    "@flowscripter/template-bun-rust-library": "1.0.24"
   }
 }
