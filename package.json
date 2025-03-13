@@ -1,5 +1,16 @@
 {
   "name": "@flowscripter/template-bun-executable",
+  "description": "Project template for a cross-platform Bun executable with ffi native library and Bun library dependencies",
+  "repository": "@flowscripter/template-bun-executable",
+  "license": "MIT",
+  "keywords": [
+    "bun",
+    "example",
+    "template",
+    "cli",
+    "executable",
+    "ffi"
+  ],
   "module": "index.ts",
   "type": "module",
   "version": "1.1.20",
