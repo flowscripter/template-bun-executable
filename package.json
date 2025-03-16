@@ -1,7 +1,11 @@
 {
   "name": "@flowscripter/template-bun-executable",
   "description": "Project template for a cross-platform Bun executable with ffi native library and Bun library dependencies",
-  "repository": "@flowscripter/template-bun-executable",
+  "homepage": "https://github.com/flowscripter/template-bun-executable#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flowscripter/template-bun-executable.git"
+  },
   "license": "MIT",
   "keywords": [
     "bun",
