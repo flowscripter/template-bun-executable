@@ -28,7 +28,7 @@
     "typescript": "^5.8.2"
   },
   "dependencies": {
-    "@flowscripter/template-bun-library": "1.0.18",
-    "@flowscripter/template-bun-rust-library": "1.0.25"
+    "@flowscripter/template-bun-library": "1.0.19",
+    "@flowscripter/template-bun-rust-library": "1.0.26"
   }
 }
