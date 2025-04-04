@@ -34,9 +34,9 @@ In a terminal:
 
 #### Windows
 
-In PowerShell: **(NOTE: This does not currently work...)**
+Via [Winget](https://github.com/microsoft/winget-cli):
 
-`curl -fsSL https://raw.githubusercontent.com/flowscripter/template-bun-executable/main/script/install.ps1 | powershell`
+`winget install Flowscripter.template-bun-executable`
 
 #### Manual Install
 
