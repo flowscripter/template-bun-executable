@@ -3,7 +3,6 @@
 [![version](https://img.shields.io/github/v/release/flowscripter/template-bun-executable?sort=semver)](https://github.com/flowscripter/template-bun-executable/releases)
 [![build](https://img.shields.io/github/actions/workflow/status/flowscripter/template-bun-executable/release-bun-executable.yml)](https://github.com/flowscripter/template-bun-executable/actions/workflows/release-bun-executable.yml)
 [![coverage](https://codecov.io/gh/flowscripter/template-bun-executable/graph/badge.svg?token=dxU2NQB2DM)](https://codecov.io/gh/flowscripter/template-bun-executable)
-[![docs](https://img.shields.io/badge/docs-API-blue)](https://flowscripter.github.io/template-bun-executable/index.html)
 [![license: MIT](https://img.shields.io/github/license/flowscripter/template-bun-executable)](https://github.com/flowscripter/template-bun-executable/blob/main/LICENSE)
 
 > Project template for a cross-platform Bun executable with ffi native library
@@ -77,10 +76,6 @@ Lint:
 
 `deno lint index.ts src/ tests/`
 
-Generate HTML API Documentation:
-
-`deno doc --html --name=template-bun-executable index.ts`
-
 ## Documentation
 
 ### Overview
@@ -91,12 +86,6 @@ Sample mermaid diagram to test rendering in markdown:
 classDiagram
     Foo <|-- Bar
 ```
-
-### API
-
-Link to auto-generated API docs:
-
-[API Documentation](https://flowscripter.github.io/template-bun-executable/index.html)
 
 ## License
 
