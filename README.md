@@ -65,16 +65,13 @@ Compile binary:
 
 `bun build index.ts --compile --outfile /tmp/template-bun-executable`
 
-**NOTE**: The following tasks use Deno as it excels at these and Bun does not
-currently provide such functionality:
-
 Format:
 
-`deno fmt`
+`bunx oxfmt`
 
 Lint:
 
-`deno lint index.ts src/ tests/`
+`bunx oxlint index.ts src/ tests/`
 
 ## Documentation
 
