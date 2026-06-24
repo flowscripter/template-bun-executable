@@ -1,6 +1,6 @@
 {
   "name": "@flowscripter/template-bun-executable",
-  "version": "1.3.17",
+  "version": "1.3.18",
   "description": "Project template for a cross-platform Bun executable with ffi native library and Bun library dependencies",
   "keywords": [
     "bun",
