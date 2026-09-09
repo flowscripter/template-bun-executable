@@ -37,6 +37,8 @@ Via [Winget](https://github.com/microsoft/winget-cli):
 
 `winget install Flowscripter.template-bun-executable`
 
+Windows arm64 and x64 builds are supported.
+
 #### Manual Install
 
 You can download and extract the binary zip files from the
