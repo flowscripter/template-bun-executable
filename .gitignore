@@ -177,4 +177,6 @@ docs/
 template-bun-executable
 /.releaserc
 functional_tests/features/support/__pycache__/pexpect_wrapper.cpython-311.pyc
-.claude
+.claude/*
+!.claude/CLAUDE.md
+!.claude/skills/
